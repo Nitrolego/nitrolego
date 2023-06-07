@@ -1,3 +1,5 @@
+# About me:
+Software test engineer with experience in both firmware and web application testing. Adept at automated testing, and reporting bugs in Jira and Zentao. Proficient in Python and learning the fundamentals of Machine learning/Deep learning.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
