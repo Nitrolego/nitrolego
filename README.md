@@ -1,5 +1,5 @@
 # About me:
-Software test engineer with experience in both firmware and web application testing. Adept at automated testing, and reporting bugs in Jira and Zentao. Proficient in Python and learning the fundamentals of Machine learning/Deep learning.
+Software test engineer with experience in horizontal end-to-end testing of firmware and web applications for HP. Mastered the skill of documenting bugs and steps to replicate issues in JIRA and ZenTao through my employment as a software test engineer. Proficient in writing, debugging and executing automated test scripts using Python on Linux.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
